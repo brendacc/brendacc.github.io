@@ -1,5 +1,6 @@
 body {
     font-family: "Roboto Thin", sans-serif;
+    font-weight: lighter;
     background-color: white;
 }
 
@@ -9,6 +10,7 @@ h1 {
 }
 
 .header {
+    font-stretch: semi-expanded;
     text-align: center;
     padding: 15px; 
 }
