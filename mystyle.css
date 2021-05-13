@@ -1,12 +1,12 @@
 body {
-    font-family: "Roboto Thin", sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: lighter;
     font-stretch: semi-expanded;
     background-color: white;
 }
 
 h1 {
-    color: purple;
+    color: darkgray;
     margin-left: 30px;
 }
 
